@@ -11,7 +11,7 @@ Bacharelando em **Sistemas de Informação (UEG)** e **Analista de Dados no IF G
 Sou entusiasta de automação de processos, análise estatística e desenvolvimento de software. 
 Atualmente focado em otimizar fluxos de dados institucionais e aprofundar em IA e Machine Learning.
 
-**Interesses:** 🇰🇷 Estudo de Coreano (한굴) | 🇬🇧 Estudo do Inglês | 🇪🇸 Estudo do Espanhol | 🎮 Game Dev (Unity/C#) | 💪 Rotina Saudável
+**Interesses Adicionais:** 🇰🇷 Estudo de Coreano (한굴) | 🇬🇧 Estudo do Inglês | 🇪🇸 Estudo do Espanhol | 🎮 Game Dev (Unity/C#) | 💪 Rotina Saudável
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-oliveira-finotti-a56054214/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__nauta/)
